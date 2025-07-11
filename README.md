@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
