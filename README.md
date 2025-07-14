@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
@@ -88,4 +89,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
