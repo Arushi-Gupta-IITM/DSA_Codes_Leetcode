@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
 ## Counting
 |  |
