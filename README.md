@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -40,6 +41,7 @@
 | [0148-sort-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -91,6 +93,7 @@
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
 ## Counting
 |  |
