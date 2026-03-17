@@ -31,6 +31,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -51,6 +52,7 @@
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
