@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,6 +65,7 @@
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0383-ransom-note) |
 ## Binary Search
@@ -90,6 +93,7 @@
 | [0162-find-peak-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +112,7 @@
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting
 |  |
@@ -176,6 +181,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
