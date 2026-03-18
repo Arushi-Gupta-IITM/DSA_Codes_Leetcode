@@ -124,6 +124,7 @@
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
