@@ -125,6 +125,7 @@
 | [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting
@@ -201,4 +202,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
