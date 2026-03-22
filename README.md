@@ -119,6 +119,7 @@
 | [0278-first-bad-version](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -234,4 +235,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
