@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -126,6 +127,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0875-koko-eating-bananas) |
