@@ -53,6 +53,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1920-build-array-from-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
