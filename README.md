@@ -44,6 +44,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -95,6 +96,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -260,6 +262,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
@@ -268,5 +271,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
