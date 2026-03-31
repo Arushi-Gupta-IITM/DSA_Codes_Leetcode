@@ -193,6 +193,7 @@
 | [0344-reverse-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
@@ -278,4 +280,8 @@
 | ------- |
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
