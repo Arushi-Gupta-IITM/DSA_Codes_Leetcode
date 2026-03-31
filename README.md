@@ -98,6 +98,7 @@
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -196,6 +198,7 @@
 | [0344-reverse-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0709-to-lower-case) |
@@ -253,6 +256,7 @@
 | [0136-single-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
