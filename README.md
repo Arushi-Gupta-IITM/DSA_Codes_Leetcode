@@ -128,6 +128,7 @@
 | [0383-ransom-note](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +208,7 @@
 | [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 ## Union Find
 |  |
