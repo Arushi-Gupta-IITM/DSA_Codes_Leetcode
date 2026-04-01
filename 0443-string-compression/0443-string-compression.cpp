@@ -2,7 +2,7 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         int n = chars.size();
-        int curr = chars[0];
+        char curr = chars[0];
         int count = 1;
         int in = 0;
 
@@ -29,7 +29,7 @@ public:
         }
         chars[in] = curr;
         in++;
-        if(count != 1 && in < n) {
+        if(count > 1) {
             string countStr = to_string(count);
             for(int j=0; j<countStr.length(); j++) {
             chars[in] = countStr[j];
