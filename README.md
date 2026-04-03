@@ -30,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0229-majority-element-ii) |
@@ -178,6 +179,7 @@
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
@@ -287,6 +289,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
 ## Greedy
 |  |
@@ -312,4 +315,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
