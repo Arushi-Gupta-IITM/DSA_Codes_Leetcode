@@ -182,6 +182,7 @@
 | [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
