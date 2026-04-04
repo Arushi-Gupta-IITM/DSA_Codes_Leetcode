@@ -172,6 +172,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
