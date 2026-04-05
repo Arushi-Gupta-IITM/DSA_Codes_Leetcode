@@ -62,6 +62,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1920-build-array-from-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
