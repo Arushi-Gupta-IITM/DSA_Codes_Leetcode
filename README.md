@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
@@ -280,6 +282,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0073-set-matrix-zeroes) |
