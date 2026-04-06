@@ -75,6 +75,7 @@
 | [1920-build-array-from-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -297,6 +300,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
