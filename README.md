@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0075-sort-colors) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0867-transpose-matrix) |
