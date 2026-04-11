@@ -8,19 +8,19 @@ public:
         vector<int> map(26, 0);
 
         for(int i=0; i<n1; i++) {
-            char ch = s[i];
-            map[ch-'a'] += 1;
+            int in = s[i] - 'a';
+            map[in]++;
         }
 
         for(int i=0; i<n2; i++) {
-            char ch = t[i];
-            map[ch-'a'] -= 1;
-            if(map[ch-'a'] < 0) return false;
+            int in = t[i] - 'a';
+            map[in]--;
         }
 
         for(int i=0; i<26; i++) {
             if(map[i] != 0) return false;
         }
+
         return true;
     }
 };
