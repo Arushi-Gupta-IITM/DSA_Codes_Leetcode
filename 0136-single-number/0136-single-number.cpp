@@ -1,10 +1,13 @@
 class Solution {
 public:
-    int singleNumber(vector<int>& nums) { // pass by reference
+    int singleNumber(vector<int>& nums) {
+        int n = nums.size();
         int ans = 0;
-        for(int val : nums) {
-            ans = ans ^ val;
+
+        for(int i=0;i<n; i++) {
+            ans = ans ^ nums[i];
         }
-        return ans;
+
+        return ans;        
     }
 };
