@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0056-merge-intervals) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
@@ -230,6 +233,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0151-reverse-words-in-a-string) |
