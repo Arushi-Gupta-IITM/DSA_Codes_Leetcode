@@ -275,6 +275,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
