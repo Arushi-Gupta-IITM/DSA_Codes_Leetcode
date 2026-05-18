@@ -111,6 +111,7 @@
 | [0443-string-compression](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -303,6 +304,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
