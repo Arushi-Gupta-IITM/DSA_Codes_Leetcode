@@ -57,6 +57,7 @@
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,6 +172,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -368,6 +370,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
