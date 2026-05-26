@@ -17,38 +17,34 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head == NULL) {
-            return NULL;
+        if(head == NULL) return NULL;
+
+        Node* copyHead = new Node(head->val);
+        unordered_map<Node*, Node*> mp;
+        mp[head] = copyHead;
+
+        Node* temp1 = head->next;
+        Node* temp2 = copyHead;
+
+        while(temp1 != NULL) {
+            Node* copyNode = new Node(temp1->val);
+            temp2->next = copyNode;
+            mp[temp1] = copyNode;
+
+            temp1 = temp1->next;
+            temp2 = temp2->next;
         }
 
-        unordered_map<Node*, Node*> map; // stores pointers of nodes of linked list and its copy
+        temp1 = head;
+        temp2 = copyHead;
 
-        Node* newHead = new Node(head->val);
-        map[head] = newHead;
-        Node* curr1 = head->next;
-        Node* curr2 = newHead;
+        while(temp1 != NULL) {
+            temp2->random = mp[temp1->random];
 
-        while(curr1 != NULL) {
-            Node* newNode = new Node(curr1->val);
-            curr2->next = newNode;
-
-            curr2 = curr2->next;
-            map[curr1] = curr2;
-            curr1 = curr1->next;
+            temp1 = temp1->next;
+            temp2 = temp2->next;
         }
 
-        curr1 = head;
-        curr2 = newHead;
-
-        while(curr1 != NULL) {
-            if(curr1->random != NULL) {
-                curr2->random = map[curr1->random];
-            }
-
-            curr1 = curr1->next;
-            curr2 = curr2->next;
-        }
-
-        return newHead;
+        return copyHead;
     }
 };
