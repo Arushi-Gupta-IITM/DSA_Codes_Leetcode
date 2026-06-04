@@ -19,6 +19,7 @@
 | [0046-permutations](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0056-merge-intervals) |
@@ -439,6 +440,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
