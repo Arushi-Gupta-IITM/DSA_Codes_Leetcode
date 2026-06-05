@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -349,6 +351,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -439,6 +442,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0052-n-queens-ii) |
