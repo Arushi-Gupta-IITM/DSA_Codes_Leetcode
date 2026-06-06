@@ -344,6 +344,7 @@
 | [0234-palindrome-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
@@ -435,6 +436,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -450,4 +452,8 @@
 | [0052-n-queens-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0090-subsets-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
