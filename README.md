@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
@@ -101,6 +102,7 @@
 | [0027-remove-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -289,6 +291,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0118-pascals-triangle) |
@@ -431,6 +434,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -473,4 +477,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
