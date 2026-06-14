@@ -74,6 +74,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -154,6 +155,7 @@
 | [0414-third-maximum-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -228,6 +230,7 @@
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -434,6 +438,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -479,6 +484,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -487,4 +493,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
