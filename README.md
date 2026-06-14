@@ -267,6 +267,7 @@
 | [0049-group-anagrams](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0242-valid-anagram) |
@@ -297,6 +298,7 @@
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0509-fibonacci-number) |
@@ -468,6 +470,7 @@
 | [0052-n-queens-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Doubly-Linked List
 |  |
 | ------- |
