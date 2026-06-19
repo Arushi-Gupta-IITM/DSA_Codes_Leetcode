@@ -63,6 +63,7 @@
 | [0454-4sum-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -188,6 +189,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -450,6 +452,7 @@
 | [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
@@ -497,6 +500,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
