@@ -451,6 +451,7 @@
 | [0020-valid-parentheses](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -509,4 +510,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
