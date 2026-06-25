@@ -472,12 +472,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 ## Backtracking
@@ -527,12 +529,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
