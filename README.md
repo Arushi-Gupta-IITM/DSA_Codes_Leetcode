@@ -208,6 +208,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0278-first-bad-version) |
@@ -400,6 +401,7 @@
 | [0078-subsets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -523,8 +525,10 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
