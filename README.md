@@ -486,6 +486,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
@@ -496,6 +497,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 ## Backtracking
@@ -551,6 +553,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -561,6 +564,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
