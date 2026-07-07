@@ -285,6 +285,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -496,6 +497,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -519,6 +521,7 @@
 | [0078-subsets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0257-binary-tree-paths) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -568,6 +571,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -583,6 +587,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
