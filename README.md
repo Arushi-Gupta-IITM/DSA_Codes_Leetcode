@@ -48,6 +48,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0217-contains-duplicate) |
@@ -317,6 +318,7 @@
 | [0118-pascals-triangle](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0509-fibonacci-number) |
