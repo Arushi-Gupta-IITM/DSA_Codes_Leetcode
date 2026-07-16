@@ -1,32 +1,29 @@
 class Solution {
 public:
-    int rob(vector<int>& cost) {
-        int n = cost.size();
-        int ans = 0;
-
+    int rob(vector<int>& nums) {
+        int n = nums.size();
         if(n == 0) return 0;
-        if(n == 1) return cost[0];
+        if(n == 1) return nums[0];
+        if(n == 2) return max(nums[0], nums[1]);
+        // robbing house 0 to n-2, ans1
+        vector<int> dp(n-1, -1);
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
 
-        // robbing from house 0 to n-2
-        vector<int> dp(n, 0);
-        dp[0] = 0;
-        dp[1] = cost[0];
-
-        for(int i=2; i<n; i++) {
-            dp[i] = max(dp[i-1], cost[i-1]+dp[i-2]);
+        for(int i=2; i<n-1; i++) {
+            dp[i] = max(dp[i-1], dp[i-2]+nums[i]);
         }
 
-        ans = max(ans, dp[n-1]);
+        int ans = dp[n-2];
+        // robbing house 1 to n-1, ans2
+        dp[0] = nums[1];
+        dp[1] = max(nums[1], nums[2]);
 
-        // robbing house from 1 to n-1
-        dp[0] = 0;
-        dp[1] = cost[1];
-
-        for(int i=2; i<n; i++) {
-            dp[i] = max(dp[i-1], cost[i]+dp[i-2]);
+        for(int i=2; i<n-1; i++) {
+            dp[i] = max(dp[i-1], dp[i-2]+nums[i+1]);
         }
-
-        ans = max(ans, dp[n-1]);
+        ans = max(ans, dp[n-2]);
+        // ans = max(ans1, ans2)
         return ans;
     }
 };
