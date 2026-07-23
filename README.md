@@ -68,6 +68,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0455-assign-cookies) |
@@ -339,6 +340,7 @@
 | [0213-house-robber-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1137-n-th-tribonacci-number) |
