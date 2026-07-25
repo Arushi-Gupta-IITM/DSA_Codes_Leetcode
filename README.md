@@ -541,6 +541,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
+| [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -556,6 +557,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -661,9 +663,11 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
