@@ -681,4 +681,8 @@
 | [0207-course-schedule](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
