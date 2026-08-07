@@ -211,6 +211,7 @@
 | [0383-ransom-note](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0454-4sum-ii) |
@@ -316,6 +317,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0443-string-compression) |
@@ -377,6 +379,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 ## Union Find
