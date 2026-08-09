@@ -83,6 +83,7 @@
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -382,6 +383,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Union Find
 |  |
 | ------- |
