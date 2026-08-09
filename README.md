@@ -97,6 +97,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1470-shuffle-the-array) |
@@ -384,6 +385,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Union Find
 |  |
 | ------- |
