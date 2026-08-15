@@ -278,6 +278,7 @@
 | [0009-palindrome-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
@@ -344,6 +345,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -704,4 +706,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
