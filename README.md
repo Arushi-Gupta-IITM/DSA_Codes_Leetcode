@@ -582,6 +582,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -600,6 +601,7 @@
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0994-rotting-oranges) |
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
@@ -702,6 +704,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -709,6 +712,7 @@
 | [0210-course-schedule-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0547-number-of-provinces) |
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
