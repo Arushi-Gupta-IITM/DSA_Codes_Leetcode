@@ -735,4 +735,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0062-unique-paths) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
