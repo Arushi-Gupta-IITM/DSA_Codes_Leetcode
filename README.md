@@ -123,6 +123,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,6 +306,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
 | ------- |
