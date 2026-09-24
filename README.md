@@ -685,6 +685,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -703,6 +704,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -746,4 +748,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0069-sqrtx) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
