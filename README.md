@@ -352,6 +352,7 @@
 | [1768-merge-strings-alternately](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -518,6 +519,7 @@
 | [1920-build-array-from-permutation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3498-reverse-degree-of-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
