@@ -781,4 +781,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
