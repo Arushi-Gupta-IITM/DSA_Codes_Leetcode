@@ -562,6 +562,7 @@
 | [0234-palindrome-linked-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -604,6 +605,7 @@
 | [0547-number-of-provinces](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
@@ -712,6 +714,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
