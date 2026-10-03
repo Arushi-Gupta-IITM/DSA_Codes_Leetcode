@@ -42,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -703,6 +705,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0112-path-sum) |
@@ -733,6 +736,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0112-path-sum) |
@@ -798,6 +802,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0938-range-sum-of-bst) |
