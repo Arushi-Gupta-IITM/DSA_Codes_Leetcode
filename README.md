@@ -127,6 +127,7 @@
 | [1929-concatenation-of-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -590,6 +591,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Depth-First Search
 |  |
 | ------- |
