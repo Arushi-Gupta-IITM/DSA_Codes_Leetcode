@@ -131,6 +131,7 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -545,6 +547,7 @@
 | [0455-assign-cookies](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0561-array-partition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Interactive
 |  |
 | ------- |
