@@ -131,6 +131,7 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -498,6 +499,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -641,6 +643,7 @@
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -670,6 +673,7 @@
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -819,6 +823,7 @@
 | [0695-max-area-of-island](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
