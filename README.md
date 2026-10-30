@@ -392,6 +392,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -638,6 +639,7 @@
 | [0695-max-area-of-island](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -668,6 +670,7 @@
 | [0695-max-area-of-island](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -699,6 +702,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -833,6 +837,7 @@
 | [0207-course-schedule](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -909,4 +914,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
