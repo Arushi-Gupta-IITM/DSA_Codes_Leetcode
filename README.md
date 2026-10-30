@@ -119,6 +119,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -822,6 +823,7 @@
 | [0547-number-of-provinces](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -833,6 +835,7 @@
 | [0547-number-of-provinces](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -890,4 +893,20 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Arushi-Gupta-IITM/DSA_Codes_Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
